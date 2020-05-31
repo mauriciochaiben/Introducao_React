@@ -1,0 +1,24 @@
+{
+  "name": "introducao_react",
+  "version": "1.0.0",
+  "description": "Primeiro projeto em React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciochaiben/Introducao_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauriciochaiben/Introducao_React/issues"
+  },
+  "homepage": "https://github.com/mauriciochaiben/Introducao_React#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  }
+}
